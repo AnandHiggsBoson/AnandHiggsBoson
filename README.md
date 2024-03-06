@@ -24,11 +24,11 @@ src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=f
 
 # Badges
 
-[![An image of @ananddarshan's Holopin badges, which is a link to view their full Holopin profile](https://github.com/AnandHiggsBoson)](https://github.com/AnandHiggsBoson)
+[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipayansarkar47)](https://holopin.io/@dipayansarkar47)
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/AnandHiggsBoson"><img src="https://github-readme-stats.vercel.app/api?username=dipayansarkar47&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
+<a href="https://github.com/AnandHiggsBoson"><img src="https://github-readme-stats.vercel.app/api?username=AnandHiggsBoson&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnandHiggsBoson's GitHub stats" /></a>
 
 <a href="https://github.com/AnandHiggsBoson"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipayansarkar47&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -38,4 +38,4 @@ src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=f
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AnandHiggsBoson" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AnandHiggsBoson/Sandesh" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AnandHiggsBoson" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Dipayan&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dipayansarkar47/Sandesh" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipayansarkar47&repo=Sandesh&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
